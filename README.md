@@ -12,6 +12,7 @@ Outside of development, I love traveling and working from new environments—as 
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [batblover@yahoo.com](mailto:batblover@yahoo.com)
+* 🖥️  See my portfolio at https://animated-eportfolio.vercel.app/
 * 💬  Ask me about anime, and I like enjoying/learning new things. Also I really like hot-pots.
 
 <p align="left">
